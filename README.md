@@ -8,7 +8,7 @@
     Soteropolitana que acredita na tecnologia como ferramenta de transformação e construção de novas possibilidades. 
 </div>
 
-### Main skills
+### Hard skills
 [![My Skills](https://skillicons.dev/icons?i=git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,html,css,bootstrap,notion,docker,vue,linux,postgres,typescript,postman)](https://skillicons.dev)
 
 ### Estudando
