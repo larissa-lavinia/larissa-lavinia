@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e62d1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Olá%2C+me+chamo+Larissa+Lavínia;Sou+Desenvolvedora+Full-Stack" alt="Desenvolvedora Full Stack"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=7e62d1&width=435&lines=Olá%2C+me+chamo+Larissa+Lavínia;Sou+Desenvolvedora+Full-Stack" alt="Desenvolvedora Full Stack"/>
 </a>
 
  <div>
@@ -13,6 +13,43 @@
 <div>
     Como Desenvolvedora de Software Full-Stack, tenho experiência em Java, Spring Boot, Node.js, MongoDB, Docker, RabbitMQ, Nifi, Vue.js, e React, com foco no aprendizado contínuo e na aplicação de boas práticas de desenvolvimento. Minha atuação inclui contribuir para construção de sistemas distribuídos escaláveis, integração de serviços utilizando comunicação síncrona e assíncrona, e o desenvolvimento de soluções eficientes.
 </div>
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/larissa-lavinia">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=larissa-lavinia&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://github.com/larissa-lavinia">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larissa-lavinia&theme=aura"
+    />
+  <a href="https://github.com/larissa-lavinia">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissa-lavinia&theme=aura"
+    />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/larissa-lavinia">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=larissa-lavinia&theme=aura"
+    />
+  <a href="https://github.com/larissa-lavinia">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=larissa-lavinia&theme=aura&utcOffset=8"
+    />
+</p>
 
 ### 💻 Competências Técnicas
 [![My Skills](https://skillicons.dev/icons?i=git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,jenkins,html,css,bootstrap,notion,docker,vue,linux,postgres,typescript,postman)](https://skillicons.dev)
@@ -27,3 +64,5 @@
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e62d1&height=120&section=footer" alt="footer"/>
