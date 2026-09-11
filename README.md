@@ -59,12 +59,7 @@
 ### 📚 Atualmente estudando
 [![Learning](https://skillicons.dev/icons?i=gcp,nest)](https://skillicons.dev)
 
-
 ###  🤝 Vamos nos conectar!
-<div>
-    <a href="https://www.linkedin.com/in/larissalaviniaba/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/larissalaviniaba/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B3FBA&height=120&section=footer" alt="footer"/>
