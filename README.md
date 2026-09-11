@@ -1,8 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e62d1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B3FBA&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=7e62d1&width=435&lines=Olá%2C+me+chamo+Larissa+Lavínia;Sou+Desenvolvedora+Full-Stack" alt="Desenvolvedora Full Stack"/>
-</a>
+<h1 align="center">
+  Larissa Lavínia — Desenvolvedora Full-Stack
+</br> 
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
+</h1>
 
  <div>
     Soteropolitana que acredita na tecnologia como ferramenta de transformação e construção de novas possibilidades. 
@@ -21,7 +23,7 @@
   <a href="https://github.com/larissa-lavinia">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=larissa-lavinia&theme=aura&hide_border=false&border_radius=10" />
+         src="https://streak-stats.demolab.com?user=larissa-lavinia&theme=transparent&hide_border=false&border_radius=10" />
   </a>
 </p>
 
@@ -29,12 +31,12 @@
   <a href="https://github.com/larissa-lavinia">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larissa-lavinia&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larissa-lavinia&theme=transparent"
     />
   <a href="https://github.com/larissa-lavinia">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissa-lavinia&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larissa-lavinia&theme=transparent"
     />
 </p> -->
 
@@ -42,12 +44,12 @@
   <a href="https://github.com/larissa-lavinia">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=larissa-lavinia&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=larissa-lavinia&theme=transparent"
     />
   <a href="https://github.com/larissa-lavinia">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=larissa-lavinia&theme=aura&utcOffset=8"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=larissa-lavinia&theme=transparent&utcOffset=8"
     />
 </p>
 
@@ -65,4 +67,4 @@
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e62d1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B3FBA&height=120&section=footer" alt="footer"/>
